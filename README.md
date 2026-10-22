@@ -1,6 +1,6 @@
 LUMIEREZONE
 An anime discovery and tracking website
-Integrative Programming Final Project
+Integrative Programming Final Project (this is a project)
 
 
 PROJECT TITLE - LumiereZone
